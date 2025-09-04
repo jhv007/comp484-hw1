@@ -1,3 +1,6 @@
+
+https://docs.google.com/document/d/1VNrxtBU614GYX8uN9BaTQbycIgsD0BlKnupPMpWSKl8/edit?tab=t.0
+
 Welcome to your first challenge. In this course’s challenges, you’ll work on completing the Comp484 reference site. You won’t be building the site from scratch, rather you’ll be completing various portions of the site in varying degrees of completion. The goal is to reinforce and put into practice what you’ve learned.
 
 For this challenge you’ll be planning and implementing a formatting strategy for the site. In the steps below I’ll list the tasks you need to perform, as well as the relevant files for each task.
